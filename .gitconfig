@@ -1,3 +1,6 @@
 [http]
 [http]
 	sslverify = false
+[user]
+	email = sjh2177@gmail.com
+	name = sjho
